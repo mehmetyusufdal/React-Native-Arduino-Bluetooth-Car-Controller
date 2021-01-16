@@ -1,0 +1,40 @@
+{
+    "directionButtons": {
+        "Forward": "8",
+        "Forward Right": "9",
+        "Forward Left": "7",
+        "Backward": "2",
+        "Backward Right": "3",
+        "Backward Left": "1",
+        "Right": "6",
+        "Left": "4",
+        "Stop": "5"
+    },
+    "extraButtons": {
+        "Button 1": {
+            "pressCommand": "A",
+            "releaseCommand": "a",
+            "pressAndHold": true
+        },
+        "Button 2": {
+            "pressCommand": "b",
+            "releaseCommand": "",
+            "pressAndHold": false
+        },
+        "Button 3": {
+            "pressCommand": "c",
+            "releaseCommand": "",
+            "pressAndHold": false
+        },
+        "Button 4": {
+            "pressCommand": "d",
+            "releaseCommand": "",
+            "pressAndHold": false
+        },
+        "Button 5": {
+            "pressCommand": "e",
+            "releaseCommand": "",
+            "pressAndHold": false
+        }
+    }
+}
